@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d842bf6f-08f1-4c99-8e2b-25ec895b4d7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/TOOLS/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\TOOLS\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQ4YjhywYrOyRAmA2kz5SoM5D4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestAuthorizationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAuthorizationApp" />
+      <module name="shiro_demo_04authorization_realm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestAuthorizationApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d842bf6f-08f1-4c99-8e2b-25ec895b4d7d" name="Default Changelist" comment="" />
+      <created>1579068533870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579068533870</updated>
+      <workItem from="1579068536965" duration="3927000" />
+      <workItem from="1579096444500" duration="1310000" />
+      <workItem from="1579097852585" duration="2544000" />
+      <workItem from="1579145388696" duration="1017000" />
+      <workItem from="1579146530074" duration="584000" />
+      <workItem from="1579147127709" duration="8039000" />
+      <workItem from="1579161386577" duration="333000" />
+      <workItem from="1579161728279" duration="3383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="642" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579069899000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="305" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579069899000" />
+    <state x="721" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1579163525656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="162" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579163525656" />
+    <state x="658" y="154" key="#xdebugger.evaluate" timestamp="1579159607076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="154" key="#xdebugger.evaluate/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579159607076" />
+    <state x="715" y="218" key="FileChooserDialogImpl" timestamp="1579148039754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="218" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579148039754" />
+    <state width="1867" height="267" key="GridCell.Tab.0.bottom" timestamp="1579182352432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="268" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579105410658" />
+    <state width="1867" height="267" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579182352432" />
+    <state width="1867" height="267" key="GridCell.Tab.0.center" timestamp="1579182352432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="268" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579105410658" />
+    <state width="1867" height="267" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579182352432" />
+    <state width="1867" height="267" key="GridCell.Tab.0.left" timestamp="1579182352431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="268" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579105410658" />
+    <state width="1867" height="267" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579182352431" />
+    <state width="1867" height="267" key="GridCell.Tab.0.right" timestamp="1579182352432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="268" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579105410658" />
+    <state width="1867" height="267" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579182352432" />
+    <state width="1867" height="332" key="GridCell.Tab.1.bottom" timestamp="1579161294926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579105410652" />
+    <state width="1867" height="332" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579161294926" />
+    <state width="1867" height="332" key="GridCell.Tab.1.center" timestamp="1579161294926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579105410652" />
+    <state width="1867" height="332" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579161294926" />
+    <state width="1867" height="332" key="GridCell.Tab.1.left" timestamp="1579161294926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579105410652" />
+    <state width="1867" height="332" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579161294926" />
+    <state width="1867" height="332" key="GridCell.Tab.1.right" timestamp="1579161294926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579105410652" />
+    <state width="1867" height="332" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579161294926" />
+    <state x="337" y="0" key="SettingsEditor" timestamp="1579148095839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="337" y="77" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579068914397" />
+    <state x="337" y="0" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579148095839" />
+    <state x="414" y="195" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579098818671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="195" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1579098818671" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1579163152548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579163152548" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TestAuthorizationApp.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zl/realm/UserRealm.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zl/realm/UserRealm.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zl/realm/UserRealm.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zl/realm/UserRealm.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zl/service/impl/UserServiceImpl.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zl/service/impl/UserServiceImpl.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/TOOLS/maven/local_maven_repository/org/apache/shiro/shiro-core/1.4.1/shiro-core-1.4.1-sources.jar!/org/apache/shiro/subject/support/DelegatingSubject.java</url>
+          <line>258</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TestAuthorizationApp.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
